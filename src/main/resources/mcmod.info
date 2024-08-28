@@ -1,0 +1,16 @@
+[
+{
+  "modid": "KeybindsFix",
+  "name": "KeybindsFix",
+  "description": "Backups old Minecraft options.txt file in case of switching to a newer version",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Farmans"],
+  "credits": "dxxxxy for making an example mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
